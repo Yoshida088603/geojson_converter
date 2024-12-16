@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Sort": "start", "Name": "start point", "Summary": "start summary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.83, 34.685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Sort": "goal", "Name": "goal point", "Summary": "goal summary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.841,34.685]
+      }
+    }
+  ]
+}

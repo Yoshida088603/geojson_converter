@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+	{
+	    "type": "Feature",
+	    "properties": {
+		"Sort": "Area",	"Name": "Area Name", "Summary": "Area Summary"
+	    },
+	    "geometry": {
+		"type": "Polygon",
+		"coordinates": [
+		    [[135.842,34.687],[135.844,34.687],[135.844,34.686],[135.842,34.686],[135.842,34.687]]
+		]
+ 	    }
+        }
+    ]
+}

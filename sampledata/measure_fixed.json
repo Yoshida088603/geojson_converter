@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "measure_fixed",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "area": null, "distance": null, "name": "Area" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 24817.424119903062092, 9028.512336937563305, 29.086628129935804 ], [ 24810.555119888758782, 9041.064336981193264, 29.891628166890683 ], [ 24795.599119876835175, 9067.082336942450638, 31.05362815020138 ], [ 24775.679119879339851, 9102.350336935895029, 29.077628126597943 ], [ 24778.934119896388438, 9104.106336918252055, 29.126628121591153 ], [ 24798.88511986157755, 9068.867336938472363, 31.054628137326777 ], [ 24813.376119987940911, 9043.066336939469693, 29.803628107762876 ], [ 24820.680119880889833, 9030.446336940245601, 29.083628135896269 ], [ 24817.424119903062092, 9028.512336937563305, 29.086628129935804 ] ] ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "14.33 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "30.03 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "40.55 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "3.70 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "40.54 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "29.62 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "14.60 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": null, "distance": "3.79 m", "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "area": "309.8 m²", "distance": null, "name": null }, "geometry": { "type": "Polygon", "coordinates": [ ] } }
+]
+}

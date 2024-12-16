@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "name": "measure_3857.json",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG:3857"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15596850.440804075,
+              4311780.678896009,
+              29.086628129935804
+            ],
+            [
+              15596841.99456196,
+              4311796.285787048,
+              29.891628166890683
+            ],
+            [
+              15596823.599732008,
+              4311828.638589182,
+              31.05362815020138
+            ],
+            [
+              15596799.101508766,
+              4311872.492423057,
+              29.077628126597943
+            ],
+            [
+              15596803.130903482,
+              4311874.661007174,
+              29.126628121591153
+            ],
+            [
+              15596827.667533262,
+              4311830.84304896,
+              31.054628137326777
+            ],
+            [
+              15596845.488367496,
+              4311798.76126417,
+              29.803628107762876
+            ],
+            [
+              15596854.472034024,
+              4311783.0684182765,
+              29.08362813589627
+            ],
+            [
+              15596850.440804075,
+              4311780.678896009,
+              29.086628129935804
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "14.33 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "30.03 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "40.55 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "3.70 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "40.54 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "29.62 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "14.60 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "distance": "3.79 m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "area": "309.8 m²"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": []
+      }
+    }
+  ]
+}
