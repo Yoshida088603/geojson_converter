@@ -8,6 +8,7 @@ geojson_converter.exe をダウンロードします（インストールは不�
 ## PotreeDesktopでの事前準備
 日本の平面直角座標系で作成された点群（LAS/LAZ）をPotreeDesktopに読み込みます。
 PotreeDesktopで3次元ポリゴンを作成し、JSONファイルとして出力します。
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](screenshot/スクリーンショット 2024-12-16 181831.png)
 
 ## JSONファイルの変換
 出力したJSONファイルを geojson_converter.exe にドラッグ＆ドロップします。
